@@ -10,6 +10,8 @@ editor_options:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+RMSE on Kaggle 0.12115
+
 
 Loading libraries:
 ```{r echo=T, results='hide', message=FALSE, warning=FALSE}
